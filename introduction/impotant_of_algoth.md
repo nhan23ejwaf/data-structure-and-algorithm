@@ -8,8 +8,9 @@
 - O(2<sup>N</sup>):10<sup>14</sup> năm
 - O(N!):10<sup>142</sup>  năm
 
----
+Bạn có thể tham khảo thêm tại: [Tại đây](https://wiki.vnoi.info/algo/basic/computational-complexity.md)
 
+---
 Một số thuật toán tìm hiểu 
 
 **Sắp xếp**
